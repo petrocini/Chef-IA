@@ -8,7 +8,6 @@ Este repositório contém o código-fonte do **Chef IA**, um aplicativo Android 
 |                  Home (Com Receitas)                   |              Geração de Receita              |                 Detalhes da Receita                  |
 |:------------------------------------------------------:|:--------------------------------------------:|:----------------------------------------------------:|
 |        ![Tela Principal](docs/assets/home.jpg)         | ![Tela de Geração](docs/assets/generate.jpg) | ![Tela de Detalhes](docs/assets/receipt_details.jpg) |
-| [Demonstração do App Chef IA](docs/assets/example.gif) 
 
 ## ✨ Funcionalidades Implementadas
 
