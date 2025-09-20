@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Chef IA</string>
+    <string name="action_back">Voltar</string>
+    <string name="action_close">Fechar</string>
+    <string name="action_share">Compartilhar</string>
+    <string name="action_delete">Excluir</string>
+    <string name="action_cancel">Cancelar</string>
+    <string name="chip_selected">Selecionado</string>
+    <string name="chip_remove_ingredient">Remover ingrediente</string>
+
+    <string name="onboarding_skip">Pular</string>
+    <string name="onboarding_next">Avançar</string>
+    <string name="onboarding_start">Começar!</string>
+    <string name="onboarding_title_1">Bem-vindo ao Chef IA!</string>
+    <string name="onboarding_description_1">Diga o que você tem na geladeira, e nós criamos uma receita deliciosa para você.</string>
+    <string name="onboarding_title_2">Crie Mágica na Cozinha</string>
+    <string name="onboarding_description_2">Adicione os itens que você tem disponíveis. Nossa IA vai analisar e encontrar a combinação perfeita.</string>
+    <string name="onboarding_title_3">Construa seu Livro de Receitas</string>
+    <string name="onboarding_description_3">Salve suas criações favoritas e tenha acesso a elas sempre que precisar. Bom apetite!</string>
+
+    <string name="home_fab_generate_recipe">Gerar nova receita</string>
+    <string name="home_empty_title">Seu livro de receitas está vazio</string>
+    <string name="home_empty_subtitle">Vamos criar sua primeira obra de arte culinária!</string>
+    <string name="home_empty_primary_action">Criar minha primeira receita</string>
+    <string name="home_empty_secondary_action">Ver tutorial</string>
+    <plurals name="home_selection_count">
+        <item quantity="one">%d selecionada</item>
+        <item quantity="other">%d selecionadas</item>
+    </plurals>
+
+    <string name="generate_title">Criar Nova Receita</string>
+    <string name="generate_label_ingredients">Digite os ingredientes que você tem:</string>
+    <string name="generate_placeholder_ingredients">Ex: Arroz, Feijão, Frango...</string>
+    <string name="generate_label_style">Estilo da receita:</string>
+    <string name="generate_button_text">GERAR RECEITA</string>
+    <string name="generate_error_no_ingredients">Adicione pelo menos um ingrediente.</string>
+    <string name="generate_error_api">Não foi possível gerar a receita. Tente novamente.</string>
+
+    <string name="details_image_content_description">Imagem da receita: %s</string>
+    <string name="details_label_ingredients">Ingredientes</string>
+    <string name="details_label_instructions">Modo de Preparo</string>
+    <string name="details_button_save">SALVAR RECEITA</string>
+    <string name="details_button_discard">Descartar</string>
+    <string name="details_error_loading">Não foi possível carregar a receita.</string>
+
+    <string name="dialog_delete_recipe_title">Excluir Receita</string>
+    <string name="dialog_delete_recipe_description">Tem certeza que deseja excluir esta receita? Esta ação não pode ser desfeita.</string>
+    <string name="dialog_delete_recipes_title">Excluir Receita(s)</string>
+    <plurals name="dialog_delete_recipes_description">
+        <item quantity="one">Tem certeza que deseja excluir a receita selecionada? Esta ação não pode ser desfeita.</item>
+        <item quantity="other">Tem certeza que deseja excluir as %d receitas selecionadas? Esta ação não pode ser desfeita.</item>
+    </plurals>
+</resources>
